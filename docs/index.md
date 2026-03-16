@@ -4,7 +4,7 @@ layout: "home"
 description: "In order for many GIS functions to work properly, your datasets need to be stored in a common projected coordinate system. This guide will assist you with the projection process in ArcGIS Pro."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Nick Fields
+ - name: Nick Field
    link: https://library.utoronto.ca/staff/nick-field
 ---
 
