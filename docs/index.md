@@ -6,6 +6,9 @@ permalink: "/"  #! Remove this if not the homepage
 staff:
  - name: Nick Field
    link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+ - name: Cole White
+   link: https://library.utoronto.ca/staff/cole-white
 ---
 
 # Projecting your data in ArcGIS Pro
