@@ -1,8 +1,14 @@
 ---
 title: "Projecting your data in ArcGIS Pro"
 layout: "home"
-description: ""
+description: "In order for many GIS functions to work properly, your datasets need to be stored in a common projected coordinate system. This guide will assist you with the projection process in ArcGIS Pro."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Nick Field
+   link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+ - name: Cole White
+   link: https://library.utoronto.ca/staff/cole-white
 ---
 
 # Projecting your data in ArcGIS Pro
@@ -21,7 +27,8 @@ In order for many GIS functions to work properly, your datasets need to be store
 
     <img src='{{ '/assets/images/Projecting_your_data_in_ArcGIS_Pro_004_0.png' | relative_url }}' alt='ArcGIS Pro ribbon showing the Tools button found underneath the Analysis tab, outlined in red.' title='' width='648%' height='' /><img src='{{ '/assets/images/Projecting_your_data_in_ArcGIS_Pro_005_0.png' | relative_url }}' alt='Geoprocessing pane showing the location of the Project tool found by navigating to the Projections and Transformation tab in Data Management Tools.' title='' width='35%' height='' />
 4. In the **Input Dataset or Feature Class box** (labeled Input Raster in the Project Raster tool), use the dropdown menu to select the dataset you are looking to project. (If it has not yet been loaded into the map document, click on the folder icon to browse to the appropriate folder and select it.)  
-The software should auto\-detect the coordinate system of this dataset and will list it as **Input Coordinate System**.
+
+    The software should auto\-detect the coordinate system of this dataset and will list it as **Input Coordinate System**.
 
     In the **Output Dataset or Feature Class/Output Raster** box, browse to the location where you would like to save the projected dataset and specify the filename. It is a good idea to indicate that these are the projected versions of other datasets, e.g. by adding “\_projected” to the end of each filename.
 
@@ -40,4 +47,6 @@ The software should auto\-detect the coordinate system of this dataset and will 
 
     <img src='{{ '/assets/images/Projecting_your_data_in_ArcGIS_Pro_008_1.png' | relative_url }}' alt='Batch Project window with WGS_1984_(ITRF00)_To_NAD_1983 as the Transformation that has been typed in.' title='' width='75%' height='' />
 
-Technique: [Projecting](/technique/projecting) \| Tools: [ArcGIS Pro](/taxonomy/term/70) \| Data Format: [Raster](/data-format/raster), [Vector](/data-format/vector)**Date Created:** 2024\-01\-08**Updated:** 2024\-01\-15
+Technique: [Projecting](/technique/projecting) \| Tools: [ArcGIS Pro](/taxonomy/term/70) \| Data Format: [Raster](/data-format/raster), [Vector](/data-format/vector)
+
+**Date Created:** 2024\-01\-08 **Updated:** 2024\-01\-15
