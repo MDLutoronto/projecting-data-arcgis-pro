@@ -47,6 +47,6 @@ In order for many GIS functions to work properly, your datasets need to be store
 
     <img src='{{ '/assets/images/Projecting_your_data_in_ArcGIS_Pro_008_1.png' | relative_url }}' alt='Batch Project window with WGS_1984_(ITRF00)_To_NAD_1983 as the Transformation that has been typed in.' title='' width='75%' height='' />
 
-Technique: [Projecting](/technique/projecting) \| Tools: [ArcGIS Pro](/taxonomy/term/70) \| Data Format: [Raster](/data-format/raster), [Vector](/data-format/vector)
+**Technique:** [Projecting](https://mdlutoronto.github.io/tutorials-search/?technique=Projecting) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro) \| **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
 
 **Date Created:** 2024\-01\-08 **Updated:** 2024\-01\-15
