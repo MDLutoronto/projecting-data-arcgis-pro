@@ -4,17 +4,17 @@ layout: "home"
 description: "In order for many GIS functions to work properly, your datasets need to be stored in a common projected coordinate system. This guide will assist you with the projection process in ArcGIS Pro."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Nick Field
-   link: https://library.utoronto.ca/staff/nick-field
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 maintainer:
- - name: Cole White
-   link: https://library.utoronto.ca/staff/cole-white
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 created_date: 2024-01-08
 ---
 
 # Projecting your data in ArcGIS Pro
 
-In order for many GIS functions to work properly, your datasets need to be stored in a common projected coordinate system. This guide will assist you with the projection process in ArcGIS Pro. (Unsure of what the appropriate projection is for your area of interest? Refer to this [help document](https://mdl.library.utoronto.ca/technology/tutorials/selecting-right-projection) or ask a staff member for assistance in helping you determine it.)
+In order for many GIS functions to work properly, your datasets need to be stored in a common projected coordinate system. This guide will assist you with the projection process in ArcGIS Pro. (Unsure of what the appropriate projection is for your area of interest? Refer to this [help document](https://mdlutoronto.github.io/selecting-right-projection/) or ask a staff member for assistance in helping you determine it.)
 
 1. Use the Add Data button to add each of the datasets you wish to convert to the map document.
 
@@ -48,4 +48,4 @@ In order for many GIS functions to work properly, your datasets need to be store
 
     <img src='{{ '/assets/images/Projecting_your_data_in_ArcGIS_Pro_008_1.png' | relative_url }}' alt='Batch Project window with WGS_1984_(ITRF00)_To_NAD_1983 as the Transformation that has been typed in.' title='' width='75%' height='' />
 
-**Technique:** [Projecting](https://mdlutoronto.github.io/tutorials-search/?technique=Projecting) | **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro) | **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
+**Technique:** [Projecting](https://mdlutoronto.github.io/tutorials-search/?technique=Projecting) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro) \| **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
